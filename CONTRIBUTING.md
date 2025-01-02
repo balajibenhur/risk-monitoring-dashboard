@@ -5,7 +5,7 @@ We welcome contributions to the Risk Monitoring Dashboard project! Below are som
 
 ### 1. Reporting Issues
 If you find a bug or have an idea for an enhancement:
-1. Check the [issues page](https://github.com/yourname/risk-monitoring-dashboard/issues) to see if it’s already reported.
+1. Check the [issues page](https://github.com/balajibenhur/risk-monitoring-dashboard/issues) to see if it’s already reported.
 2. If not, create a new issue and provide as much detail as possible, including:
    - Steps to reproduce (for bugs).
    - A clear description of the feature or enhancement (for new ideas).
